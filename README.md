@@ -42,8 +42,8 @@ I am **Lawrence Douglas** (L.D.). Just as my name suggests, I navigate the deep,
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LawrenceDouglas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceDouglas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selectarget&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selectarget&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" height="180" alt="languages graph" />
 </div>
 
 <p align="center">
@@ -54,7 +54,7 @@ I am **Lawrence Douglas** (L.D.). Just as my name suggests, I navigate the deep,
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-Lawrence.Douglas%40proton.me-blue?style=for-the-badge&logo=protonmail)](mailto:你的真实邮箱地址)
+  [![Email](https://img.shields.io/badge/Email-selectarget%40hotmail-blue?style=for-the-badge&logo=protonmail)](mailto:你的真实邮箱地址)
   [![HackerOne](https://img.shields.io/badge/HackerOne-Elite-white?style=for-the-badge&logo=hackerone&logoColor=black)](https://hackerone.com/)
   
 </div>
